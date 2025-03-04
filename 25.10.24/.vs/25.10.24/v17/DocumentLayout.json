@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Akatosh\\source\\repos\\25.10.24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC27240-6094-449F-A900-A683CDE25AA7}|25.10.24\\25.10.24.vcxproj|C:\\Users\\Akatosh\\source\\repos\\25.10.24\\25.10.24\\4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6AC27240-6094-449F-A900-A683CDE25AA7}|25.10.24\\25.10.24.vcxproj|solutionrelative:25.10.24\\4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC27240-6094-449F-A900-A683CDE25AA7}|25.10.24\\25.10.24.vcxproj|C:\\Users\\Akatosh\\source\\repos\\25.10.24\\25.10.24\\1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6AC27240-6094-449F-A900-A683CDE25AA7}|25.10.24\\25.10.24.vcxproj|solutionrelative:25.10.24\\1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC27240-6094-449F-A900-A683CDE25AA7}|25.10.24\\25.10.24.vcxproj|C:\\Users\\Akatosh\\source\\repos\\25.10.24\\25.10.24\\2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6AC27240-6094-449F-A900-A683CDE25AA7}|25.10.24\\25.10.24.vcxproj|solutionrelative:25.10.24\\2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "1.cpp",
+              "DocumentMoniker": "C:\\Users\\Akatosh\\source\\repos\\25.10.24\\25.10.24\\1.cpp",
+              "RelativeDocumentMoniker": "25.10.24\\1.cpp",
+              "ToolTip": "C:\\Users\\Akatosh\\source\\repos\\25.10.24\\25.10.24\\1.cpp",
+              "RelativeToolTip": "25.10.24\\1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-25T06:29:05.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "2.cpp",
+              "DocumentMoniker": "C:\\Users\\Akatosh\\source\\repos\\25.10.24\\25.10.24\\2.cpp",
+              "RelativeDocumentMoniker": "25.10.24\\2.cpp",
+              "ToolTip": "C:\\Users\\Akatosh\\source\\repos\\25.10.24\\25.10.24\\2.cpp",
+              "RelativeToolTip": "25.10.24\\2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-25T06:29:21.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "4.cpp",
+              "DocumentMoniker": "C:\\Users\\Akatosh\\source\\repos\\25.10.24\\25.10.24\\4.cpp",
+              "RelativeDocumentMoniker": "25.10.24\\4.cpp",
+              "ToolTip": "C:\\Users\\Akatosh\\source\\repos\\25.10.24\\25.10.24\\4.cpp",
+              "RelativeToolTip": "25.10.24\\4.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-25T06:29:42.452Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Akatosh\source\repos\quest_pupu\quest_pupu\main.cpp(4,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Akatosh\source\repos\quest_pupu\quest_pupu\main.cpp(6,35): warning C4101: choice3: неиспользованная локальная переменная
+  quest_pupu.vcxproj -> C:\Users\Akatosh\source\repos\quest_pupu\x64\Debug\quest_pupu.exe

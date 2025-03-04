@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Akatosh\\source\\repos\\FP_\u0414\u0417_02_02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF5C756-56D7-4F37-A531-0E774D8226E1}|FP_\u0414\u0417_02_02\\FP_\u0414\u0417_02_02.vcxproj|C:\\Users\\Akatosh\\source\\repos\\FP_\u0414\u0417_02_02\\FP_\u0414\u0417_02_02\\FP_\u0414\u0417_02_02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CCF5C756-56D7-4F37-A531-0E774D8226E1}|FP_\u0414\u0417_02_02\\FP_\u0414\u0417_02_02.vcxproj|solutionrelative:FP_\u0414\u0417_02_02\\FP_\u0414\u0417_02_02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FP_\u0414\u0417_02_02.cpp",
+              "DocumentMoniker": "C:\\Users\\Akatosh\\source\\repos\\FP_\u0414\u0417_02_02\\FP_\u0414\u0417_02_02\\FP_\u0414\u0417_02_02.cpp",
+              "RelativeDocumentMoniker": "FP_\u0414\u0417_02_02\\FP_\u0414\u0417_02_02.cpp",
+              "ToolTip": "C:\\Users\\Akatosh\\source\\repos\\FP_\u0414\u0417_02_02\\FP_\u0414\u0417_02_02\\FP_\u0414\u0417_02_02.cpp",
+              "RelativeToolTip": "FP_\u0414\u0417_02_02\\FP_\u0414\u0417_02_02.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-22T19:50:28.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

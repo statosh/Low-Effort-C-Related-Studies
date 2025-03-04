@@ -1,0 +1,3 @@
+﻿  19.12.24.cpp
+C:\Users\Akatosh\source\repos\19.12.24\19.12.24\19.12.24.cpp(56,21): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  19.12.24.vcxproj -> C:\Users\Akatosh\source\repos\19.12.24\x64\Debug\19.12.24.exe
