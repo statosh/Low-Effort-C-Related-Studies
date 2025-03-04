@@ -1,0 +1,173 @@
+# Исключение всех двоичных файлов
+*.obj
+*.exe
+*.dll
+*.pdb
+
+# Исключение всех файлов, связанных с компиляцией
+*.ilk
+*.idb
+*.tlog
+*.lastbuildstate
+
+# Исключение всех файлов, связанных с отладкой
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Исключение всех файлов, связанных с IntelliSense
+*.ncb
+*.sdf
+*.opensdf
+
+# Исключение всех файлов, связанных с Visual Studio Code
+.vs/
+
+# Исключение всех файлов, связанных с NuGet
+packages/
+*.nuget.props
+*.nuget.targets
+
+# Исключение всех файлов, связанных с Git
+.git/
+
+# Исключение всех файлов, связанных с Visual Studio Online
+*.vspscc
+*.vssscc
+*.dbmdl
+*.dbproj.schemaview
+*.dbproj.user
+*.dbproj.schemaview.user
+
+# Исключение всех файлов, связанных с SQL Server Data Tools
+*.sqlproj.user
+
+# Исключение всех файлов, связанных с MSBuild
+*.cache
+*.lastbuildstate
+*.buildlog
+
+# Исключение всех файлов, связанных с тестированием
+TestResults/
+*.testsettings
+*.vsmdi
+
+# Исключение всех файлов, связанных с остаточными файлами
+*.log
+*.userprefs
+*.userosscache
+*.vcxproj.user
+*.vcxproj.filters.user
+
+# Исключение всех файлов, связанных с системой сборки CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest.txt
+CPackConfig.cmake
+CPackSourceConfig.cmake
+
+# Исключение всех файлов, связанных с системой сборки Make
+Makefile
+*.make
+*.mak
+*.d
+
+# Исключение всех файлов, связанных с системой сборки NMake
+*.ncb
+*.aps
+*.bsc
+*.sbr
+*.scc
+*.vcproj.*
+
+# Исключение всех файлов, связанных с системой сборки Qt
+*.qrc
+*.ui
+*.pro.user
+*.pro.user.*
+
+# Исключение всех файлов, связанных с системой сборки Boost.Build
+*.jam
+*.vcproj.*
+*.vcxproj.*
+
+# Исключение всех файлов, связанных с системой сборки Premake
+premake4.lua
+premake4.lua.user
+premake5.lua
+premake5.lua.user
+
+# Исключение всех файлов, связанных с системой сборки Autotools
+configure
+config.log
+config.status
+Makefile.in
+Makefile.am
+aclocal.m4
+autom4te.cache/
+
+# Исключение всех файлов, связанных с системой сборки SCons
+SConstruct
+SConscript
+.sconsign.dblite
+
+# Исключение всех файлов, связанных с системой сборки Waf
+wscript
+waf
+waf.bat
+.wafpickle-*
+
+# Исключение всех файлов, связанных с системой сборки Bazel
+bazel-bin/
+bazel-genfiles/
+bazel-out/
+bazel-testlogs/
+BUILD
+BUILD.bazel
+WORKSPACE
+WORKSPACE.bazel
+
+# Исключение всех файлов, связанных с системой сборки Conan
+conanbuildinfo.txt
+conanbuildinfo.cmake
+conanbuildinfo.gcc
+conanbuildinfo.gccdeps
+conanbuildinfo.txt
+conanbuildinfo.cmake
+conanbuildinfo.gcc
+conanbuildinfo.gccdeps
+conaninfo.txt
+conan.lock
+
+# Исключение всех файлов, связанных с системой сборки Meson
+build.ninja
+meson.build
+meson-private/
+meson-info/
+
+# Исключение всех файлов, связанных с системой сборки Gradle
+gradle.properties
+gradlew
+gradlew.bat
+.gradle/
+build/
+
+# Исключение всех файлов, связанных с системой сборки Maven
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.next
+pom.xml.branch
+maven-archiver/
+dependency-reduced-pom.xml
+release.properties
+pom.xml.asc
+pom.xml.md5
+pom.xml.sha1
+target/
+
+# Исключение всех файлов, связанных с системой сборки Ant
+build.xml
+build.properties
+build/
