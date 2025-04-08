@@ -73,7 +73,7 @@ public:
     }
 
     void draw() const override {
-        std::cout << "Đčńóĺě ęđóă ń đŕäčóńîě " << radius << " č öâĺňîě " << color.toString() << std::endl;
+        std::cout << "Рисуем круг с радиусом " << radius << " и цветом " << color.toString() << std::endl;
     }
 };
 
@@ -93,7 +93,7 @@ public:
     }
 
     void draw() const override {
-        std::cout << "Đčńóĺě ďđ˙ěîóăîëüíčę ń řčđčíîé " << width << ", âűńîňîé " << height << " č öâĺňîě " << color.toString() << std::endl;
+        std::cout << "Рисуем прямоугольник с шириной " << width << ", высотой " << height << " и цветом " << color.toString() << std::endl;
     }
 };
 
@@ -101,8 +101,8 @@ void task9() {
     Circle circle(5, Color::RED);
     Rectangle rectangle(3, 4, Color::BLUE);
 
-    std::cout << "Ďëîůŕäü ęđóăŕ: " << circle.area() << std::endl;
-    std::cout << "Öâĺň ęđóăŕ: " << circle.getColor().toString() << std::endl;
-    std::cout << "Ďëîůŕäü ďđ˙ěîóăîëüíčęŕ: " << rectangle.area() << std::endl;
-    std::cout << "Öâĺň ďđ˙ěîóăîëüíčęŕ: " << rectangle.getColor().toString() << std::endl;
+    std::cout << "Площадь круга: " << circle.area() << std::endl;
+    std::cout << "Цвет круга: " << circle.getColor().toString() << std::endl;
+    std::cout << "Площадь прямоугольника: " << rectangle.area() << std::endl;
+    std::cout << "Цвет прямоугольника: " << rectangle.getColor().toString() << std::endl;
 }
