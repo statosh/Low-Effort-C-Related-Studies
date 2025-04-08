@@ -47,7 +47,7 @@ void task6() {
     ComplexNumber diff = c1 - c2;
     ComplexNumber prod = c1 * c2;
 
-    std::cout << "Ñóììà: " << sum << std::endl;
-    std::cout << "Ðàçíîñòü: " << diff << std::endl;
-    std::cout << "Ïðîèçâåäåíèå: " << prod << std::endl;
+    std::cout << "Сумма: " << sum << std::endl;
+    std::cout << "Разность: " << diff << std::endl;
+    std::cout << "Произведение: " << prod << std::endl;
 }
