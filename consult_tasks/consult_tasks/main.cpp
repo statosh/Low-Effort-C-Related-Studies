@@ -1,4 +1,5 @@
 ﻿#include <iostream>
+#include <locale>
 #include "task1.h"
 #include "task2.h"
 #include "task3.h"
@@ -9,8 +10,11 @@
 #include "task8.h"
 #include "task9.h"
 #include "task10.h"
-
-// Ответы на вопросы в файлах task*.cpp
+#include "task11.h"
+#include "task12.h"
+#include "task13.h"
+#include "task14.h"
+#include "task15.h"
 
 int main() {
     setlocale(LC_ALL, "Russian");
@@ -28,6 +32,11 @@ int main() {
         std::cout << "8. Задание 8\n";
         std::cout << "9. Задание 9\n";
         std::cout << "10. Задание 10\n";
+        std::cout << "11. Задание 11\n";
+        std::cout << "12. Задание 12\n";
+        std::cout << "13. Задание 13\n";
+        std::cout << "14. Задание 14\n";
+        std::cout << "15. Задание 15\n";
         std::cout << "0. Выход\n";
         std::cout << "Введите номер задания: ";
         std::cin >> choice;
@@ -62,6 +71,21 @@ int main() {
             break;
         case 10:
             task10();
+            break;
+        case 11:
+            task11();
+            break;
+        case 12:
+            task12();
+            break;
+        case 13:
+            task13();
+            break;
+        case 14:
+            task14();
+            break;
+        case 15:
+            task15();
             break;
         case 0:
             std::cout << "Выход из программы.\n";

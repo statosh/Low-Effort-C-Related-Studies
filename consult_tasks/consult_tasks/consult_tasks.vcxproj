@@ -130,6 +130,11 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="task1.cpp" />
     <ClCompile Include="task10.cpp" />
+    <ClCompile Include="task11.cpp" />
+    <ClCompile Include="task12.cpp" />
+    <ClCompile Include="task13.cpp" />
+    <ClCompile Include="task14.cpp" />
+    <ClCompile Include="task15.cpp" />
     <ClCompile Include="task2.cpp" />
     <ClCompile Include="task3.cpp" />
     <ClCompile Include="task4.cpp" />
@@ -142,6 +147,11 @@
   <ItemGroup>
     <ClInclude Include="task1.h" />
     <ClInclude Include="task10.h" />
+    <ClInclude Include="task11.h" />
+    <ClInclude Include="task12.h" />
+    <ClInclude Include="task13.h" />
+    <ClInclude Include="task14.h" />
+    <ClInclude Include="task15.h" />
     <ClInclude Include="task2.h" />
     <ClInclude Include="task3.h" />
     <ClInclude Include="task4.h" />
