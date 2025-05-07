@@ -1,0 +1,7 @@
+L:\VisualStudioRepos\CSharp\05.05_HW\05.05_HW\obj\Debug\05.05_HW.csproj.AssemblyReference.cache
+L:\VisualStudioRepos\CSharp\05.05_HW\05.05_HW\obj\Debug\05.05_HW.csproj.CoreCompileInputs.cache
+L:\VisualStudioRepos\CSharp\05.05_HW\05.05_HW\bin\Debug\05.05_HW.exe.config
+L:\VisualStudioRepos\CSharp\05.05_HW\05.05_HW\bin\Debug\05.05_HW.exe
+L:\VisualStudioRepos\CSharp\05.05_HW\05.05_HW\bin\Debug\05.05_HW.pdb
+L:\VisualStudioRepos\CSharp\05.05_HW\05.05_HW\obj\Debug\05.05_HW.exe
+L:\VisualStudioRepos\CSharp\05.05_HW\05.05_HW\obj\Debug\05.05_HW.pdb

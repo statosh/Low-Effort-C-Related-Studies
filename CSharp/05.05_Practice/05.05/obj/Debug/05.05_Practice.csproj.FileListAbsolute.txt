@@ -1,0 +1,14 @@
+L:\VisualStudioRepos\CSharp\05.05\05.05\bin\Debug\05.05.exe.config
+L:\VisualStudioRepos\CSharp\05.05\05.05\bin\Debug\05.05.exe
+L:\VisualStudioRepos\CSharp\05.05\05.05\bin\Debug\05.05.pdb
+L:\VisualStudioRepos\CSharp\05.05\05.05\obj\Debug\05.05_Practice.csproj.AssemblyReference.cache
+L:\VisualStudioRepos\CSharp\05.05\05.05\obj\Debug\05.05_Practice.csproj.CoreCompileInputs.cache
+L:\VisualStudioRepos\CSharp\05.05\05.05\obj\Debug\05.05.exe
+L:\VisualStudioRepos\CSharp\05.05\05.05\obj\Debug\05.05.pdb
+L:\VisualStudioRepos\CSharp\05.05_Practice\05.05\bin\Debug\05.05.exe.config
+L:\VisualStudioRepos\CSharp\05.05_Practice\05.05\bin\Debug\05.05.exe
+L:\VisualStudioRepos\CSharp\05.05_Practice\05.05\bin\Debug\05.05.pdb
+L:\VisualStudioRepos\CSharp\05.05_Practice\05.05\obj\Debug\05.05_Practice.csproj.AssemblyReference.cache
+L:\VisualStudioRepos\CSharp\05.05_Practice\05.05\obj\Debug\05.05_Practice.csproj.CoreCompileInputs.cache
+L:\VisualStudioRepos\CSharp\05.05_Practice\05.05\obj\Debug\05.05.exe
+L:\VisualStudioRepos\CSharp\05.05_Practice\05.05\obj\Debug\05.05.pdb
