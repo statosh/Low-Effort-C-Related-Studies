@@ -1,0 +1,7 @@
+L:\VisualStudioRepos\CSharp\20_05\20_05\bin\Debug\20_05.exe.config
+L:\VisualStudioRepos\CSharp\20_05\20_05\bin\Debug\20_05.exe
+L:\VisualStudioRepos\CSharp\20_05\20_05\bin\Debug\20_05.pdb
+L:\VisualStudioRepos\CSharp\20_05\20_05\obj\Debug\20_05.csproj.AssemblyReference.cache
+L:\VisualStudioRepos\CSharp\20_05\20_05\obj\Debug\20_05.csproj.CoreCompileInputs.cache
+L:\VisualStudioRepos\CSharp\20_05\20_05\obj\Debug\20_05.exe
+L:\VisualStudioRepos\CSharp\20_05\20_05\obj\Debug\20_05.pdb
