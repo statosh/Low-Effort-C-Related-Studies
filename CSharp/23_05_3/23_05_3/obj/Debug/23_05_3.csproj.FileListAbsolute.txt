@@ -1,0 +1,7 @@
+L:\VisualStudioRepos\CSharp\23_05_3\23_05_3\bin\Debug\23_05_3.exe.config
+L:\VisualStudioRepos\CSharp\23_05_3\23_05_3\bin\Debug\23_05_3.exe
+L:\VisualStudioRepos\CSharp\23_05_3\23_05_3\bin\Debug\23_05_3.pdb
+L:\VisualStudioRepos\CSharp\23_05_3\23_05_3\obj\Debug\23_05_3.csproj.AssemblyReference.cache
+L:\VisualStudioRepos\CSharp\23_05_3\23_05_3\obj\Debug\23_05_3.csproj.CoreCompileInputs.cache
+L:\VisualStudioRepos\CSharp\23_05_3\23_05_3\obj\Debug\23_05_3.exe
+L:\VisualStudioRepos\CSharp\23_05_3\23_05_3\obj\Debug\23_05_3.pdb
