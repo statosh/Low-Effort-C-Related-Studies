@@ -1,0 +1,11 @@
+L:\VisualStudioRepos\WForms\11.06\11.06\bin\Debug\11.06.exe.config
+L:\VisualStudioRepos\WForms\11.06\11.06\bin\Debug\11.06.exe
+L:\VisualStudioRepos\WForms\11.06\11.06\bin\Debug\11.06.pdb
+L:\VisualStudioRepos\WForms\11.06\11.06\obj\Debug\11.06.csproj.AssemblyReference.cache
+L:\VisualStudioRepos\WForms\11.06\11.06\obj\Debug\_11._06.Form1.resources
+L:\VisualStudioRepos\WForms\11.06\11.06\obj\Debug\_11._06.Properties.Resources.resources
+L:\VisualStudioRepos\WForms\11.06\11.06\obj\Debug\11.06.csproj.GenerateResource.cache
+L:\VisualStudioRepos\WForms\11.06\11.06\obj\Debug\11.06.csproj.CoreCompileInputs.cache
+L:\VisualStudioRepos\WForms\11.06\11.06\obj\Debug\11.06.exe
+L:\VisualStudioRepos\WForms\11.06\11.06\obj\Debug\11.06.pdb
+L:\VisualStudioRepos\WForms\11.06\11.06\obj\Debug\_11._06.Form2.resources
