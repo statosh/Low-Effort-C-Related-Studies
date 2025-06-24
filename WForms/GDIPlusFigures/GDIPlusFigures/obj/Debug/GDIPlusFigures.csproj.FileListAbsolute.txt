@@ -1,0 +1,10 @@
+L:\VisualStudioRepos\WForms\GDIPlusFigures\GDIPlusFigures\bin\Debug\GDIPlusFigures.exe.config
+L:\VisualStudioRepos\WForms\GDIPlusFigures\GDIPlusFigures\bin\Debug\GDIPlusFigures.exe
+L:\VisualStudioRepos\WForms\GDIPlusFigures\GDIPlusFigures\bin\Debug\GDIPlusFigures.pdb
+L:\VisualStudioRepos\WForms\GDIPlusFigures\GDIPlusFigures\obj\Debug\GDIPlusFigures.csproj.AssemblyReference.cache
+L:\VisualStudioRepos\WForms\GDIPlusFigures\GDIPlusFigures\obj\Debug\GDIPlusFigures.Form1.resources
+L:\VisualStudioRepos\WForms\GDIPlusFigures\GDIPlusFigures\obj\Debug\GDIPlusFigures.Properties.Resources.resources
+L:\VisualStudioRepos\WForms\GDIPlusFigures\GDIPlusFigures\obj\Debug\GDIPlusFigures.csproj.GenerateResource.cache
+L:\VisualStudioRepos\WForms\GDIPlusFigures\GDIPlusFigures\obj\Debug\GDIPlusFigures.csproj.CoreCompileInputs.cache
+L:\VisualStudioRepos\WForms\GDIPlusFigures\GDIPlusFigures\obj\Debug\GDIPlusFigures.exe
+L:\VisualStudioRepos\WForms\GDIPlusFigures\GDIPlusFigures\obj\Debug\GDIPlusFigures.pdb
