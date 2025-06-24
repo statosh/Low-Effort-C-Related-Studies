@@ -1,0 +1,10 @@
+L:\VisualStudioRepos\WForms\16_06\16_06\bin\Debug\16_06.exe.config
+L:\VisualStudioRepos\WForms\16_06\16_06\bin\Debug\16_06.exe
+L:\VisualStudioRepos\WForms\16_06\16_06\bin\Debug\16_06.pdb
+L:\VisualStudioRepos\WForms\16_06\16_06\obj\Debug\16_06.csproj.AssemblyReference.cache
+L:\VisualStudioRepos\WForms\16_06\16_06\obj\Debug\_16_06.Form1.resources
+L:\VisualStudioRepos\WForms\16_06\16_06\obj\Debug\_16_06.Properties.Resources.resources
+L:\VisualStudioRepos\WForms\16_06\16_06\obj\Debug\16_06.csproj.GenerateResource.cache
+L:\VisualStudioRepos\WForms\16_06\16_06\obj\Debug\16_06.csproj.CoreCompileInputs.cache
+L:\VisualStudioRepos\WForms\16_06\16_06\obj\Debug\16_06.exe
+L:\VisualStudioRepos\WForms\16_06\16_06\obj\Debug\16_06.pdb

@@ -1,0 +1,11 @@
+L:\VisualStudioRepos\WForms\19_06\19_06\bin\Debug\19_06.exe.config
+L:\VisualStudioRepos\WForms\19_06\19_06\bin\Debug\19_06.exe
+L:\VisualStudioRepos\WForms\19_06\19_06\bin\Debug\19_06.pdb
+L:\VisualStudioRepos\WForms\19_06\19_06\obj\Debug\19_06.csproj.AssemblyReference.cache
+L:\VisualStudioRepos\WForms\19_06\19_06\obj\Debug\_19_06.Form1.resources
+L:\VisualStudioRepos\WForms\19_06\19_06\obj\Debug\_19_06.PasswordListForm.resources
+L:\VisualStudioRepos\WForms\19_06\19_06\obj\Debug\_19_06.Properties.Resources.resources
+L:\VisualStudioRepos\WForms\19_06\19_06\obj\Debug\19_06.csproj.GenerateResource.cache
+L:\VisualStudioRepos\WForms\19_06\19_06\obj\Debug\19_06.csproj.CoreCompileInputs.cache
+L:\VisualStudioRepos\WForms\19_06\19_06\obj\Debug\19_06.exe
+L:\VisualStudioRepos\WForms\19_06\19_06\obj\Debug\19_06.pdb

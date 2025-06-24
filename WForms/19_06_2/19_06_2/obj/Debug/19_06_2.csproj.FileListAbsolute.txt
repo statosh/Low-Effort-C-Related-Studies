@@ -1,0 +1,12 @@
+L:\VisualStudioRepos\WForms\19_06_2\19_06_2\bin\Debug\19_06_2.exe.config
+L:\VisualStudioRepos\WForms\19_06_2\19_06_2\bin\Debug\19_06_2.exe
+L:\VisualStudioRepos\WForms\19_06_2\19_06_2\bin\Debug\19_06_2.pdb
+L:\VisualStudioRepos\WForms\19_06_2\19_06_2\obj\Debug\19_06_2.csproj.AssemblyReference.cache
+L:\VisualStudioRepos\WForms\19_06_2\19_06_2\obj\Debug\_19_06_2.Form1.resources
+L:\VisualStudioRepos\WForms\19_06_2\19_06_2\obj\Debug\_19_06_2.NamesForm.resources
+L:\VisualStudioRepos\WForms\19_06_2\19_06_2\obj\Debug\_19_06_2.Properties.Resources.resources
+L:\VisualStudioRepos\WForms\19_06_2\19_06_2\obj\Debug\_19_06_2.SurnamesForm.resources
+L:\VisualStudioRepos\WForms\19_06_2\19_06_2\obj\Debug\19_06_2.csproj.GenerateResource.cache
+L:\VisualStudioRepos\WForms\19_06_2\19_06_2\obj\Debug\19_06_2.csproj.CoreCompileInputs.cache
+L:\VisualStudioRepos\WForms\19_06_2\19_06_2\obj\Debug\19_06_2.exe
+L:\VisualStudioRepos\WForms\19_06_2\19_06_2\obj\Debug\19_06_2.pdb
