@@ -11,6 +11,7 @@ using System.Windows.Forms;
 namespace _16_06_02 {
     public partial class Form1 : Form {
         private int currentPlayer = 0;
+        private GameEngine gameEngine = new GameEngine();
         public Form1() {
             InitializeComponent();
         }
@@ -47,15 +48,57 @@ namespace _16_06_02 {
                 Cursor = Cursors.Default;
             }
         }
-        private void cell_change(object sender, EventArgs e) {
-            if (sender is Panel) {
-                Panel cellpanel = (Panel)sender;
-                if (currentPlayer == 0) {
-                    cellpanel.BackgroundImage = Image.FromFile(@"Z:\Desktop\krestik.png");
-                } else if (currentPlayer == 1) {
-                    cellpanel.BackgroundImage = Image.FromFile(@"Z:\Desktop\nolik.png");
-                }
+
+        private void FillCell(Panel panel, int row, int column) {
+            if (panel.Controls.Count == 0) {
+                Label label = new Label {
+                    Dock = DockStyle.Fill,
+                    TextAlign = ContentAlignment.MiddleCenter,
+                    Font = new Font("Franklin Gothic Medium", 24F, FontStyle.Bold),
+                    Text = gameEngine.IsPlayer1HumanTurn() ? "X" : "O",
+                    ForeColor = gameEngine.GetCurrentMarkLabelColor()
+                };
+                panel.Controls.Add(label);
+
+                gameEngine.MakeTurnAndFillGameFieldCell(row, column);
             }
         }
+
+        private void panelCell0_0_Click(object sender, EventArgs e) {
+            FillCell((Panel)sender, 0, 0);
+        }
+
+        private void panelCell0_1_Click(object sender, EventArgs e) {
+            FillCell((Panel)sender, 0, 1);
+        }
+
+        private void panelCell0_2_Click(object sender, EventArgs e) {
+            FillCell((Panel)sender, 0, 2);
+        }
+
+        private void panelCell1_0_Click(object sender, EventArgs e) {
+            FillCell((Panel)sender, 1, 0);
+        }
+
+        private void panelCell1_1_Click(object sender, EventArgs e) {
+            FillCell((Panel)sender, 1, 1);
+        }
+
+        private void panelCell1_2_Click(object sender, EventArgs e) {
+            FillCell((Panel)sender, 1, 2);
+        }
+
+        private void panelCell2_0_Click(object sender, EventArgs e) {
+            FillCell((Panel)sender, 2, 0);
+        }
+
+        private void panelCell2_1_Click(object sender, EventArgs e) {
+            FillCell((Panel)sender, 2, 1);
+        }
+
+        private void panelCell2_2_Click(object sender, EventArgs e) {
+            FillCell((Panel)sender, 2, 2);
+        }
+
     }
 }

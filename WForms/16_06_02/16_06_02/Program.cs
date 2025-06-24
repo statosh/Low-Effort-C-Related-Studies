@@ -5,10 +5,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace _16_06_02 {
-    internal static class Program {
-        /// <summary>
-        /// Главная точка входа для приложения.
-        /// </summary>
+    static class Program {
         [STAThread]
         static void Main() {
             Application.EnableVisualStyles();
