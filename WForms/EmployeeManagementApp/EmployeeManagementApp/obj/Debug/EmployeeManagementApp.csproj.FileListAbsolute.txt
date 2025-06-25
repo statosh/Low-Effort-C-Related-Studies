@@ -1,0 +1,10 @@
+L:\VisualStudioRepos\WForms\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\EmployeeManagementApp.exe.config
+L:\VisualStudioRepos\WForms\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\EmployeeManagementApp.exe
+L:\VisualStudioRepos\WForms\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\EmployeeManagementApp.pdb
+L:\VisualStudioRepos\WForms\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.csproj.AssemblyReference.cache
+L:\VisualStudioRepos\WForms\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.Properties.Resources.resources
+L:\VisualStudioRepos\WForms\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.Views.EmployeeForm.resources
+L:\VisualStudioRepos\WForms\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.csproj.GenerateResource.cache
+L:\VisualStudioRepos\WForms\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.csproj.CoreCompileInputs.cache
+L:\VisualStudioRepos\WForms\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.exe
+L:\VisualStudioRepos\WForms\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.pdb
