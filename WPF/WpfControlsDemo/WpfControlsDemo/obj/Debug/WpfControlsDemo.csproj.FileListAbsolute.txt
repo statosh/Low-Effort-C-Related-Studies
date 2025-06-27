@@ -1,0 +1,14 @@
+L:\VisualStudioRepos\WPF\WpfControlsDemo\WpfControlsDemo\bin\Debug\WpfControlsDemo.exe.config
+L:\VisualStudioRepos\WPF\WpfControlsDemo\WpfControlsDemo\bin\Debug\WpfControlsDemo.exe
+L:\VisualStudioRepos\WPF\WpfControlsDemo\WpfControlsDemo\bin\Debug\WpfControlsDemo.pdb
+L:\VisualStudioRepos\WPF\WpfControlsDemo\WpfControlsDemo\obj\Debug\WpfControlsDemo.csproj.AssemblyReference.cache
+L:\VisualStudioRepos\WPF\WpfControlsDemo\WpfControlsDemo\obj\Debug\MainWindow.baml
+L:\VisualStudioRepos\WPF\WpfControlsDemo\WpfControlsDemo\obj\Debug\MainWindow.g.cs
+L:\VisualStudioRepos\WPF\WpfControlsDemo\WpfControlsDemo\obj\Debug\App.g.cs
+L:\VisualStudioRepos\WPF\WpfControlsDemo\WpfControlsDemo\obj\Debug\WpfControlsDemo_MarkupCompile.cache
+L:\VisualStudioRepos\WPF\WpfControlsDemo\WpfControlsDemo\obj\Debug\WpfControlsDemo.g.resources
+L:\VisualStudioRepos\WPF\WpfControlsDemo\WpfControlsDemo\obj\Debug\WpfControlsDemo.Properties.Resources.resources
+L:\VisualStudioRepos\WPF\WpfControlsDemo\WpfControlsDemo\obj\Debug\WpfControlsDemo.csproj.GenerateResource.cache
+L:\VisualStudioRepos\WPF\WpfControlsDemo\WpfControlsDemo\obj\Debug\WpfControlsDemo.csproj.CoreCompileInputs.cache
+L:\VisualStudioRepos\WPF\WpfControlsDemo\WpfControlsDemo\obj\Debug\WpfControlsDemo.exe
+L:\VisualStudioRepos\WPF\WpfControlsDemo\WpfControlsDemo\obj\Debug\WpfControlsDemo.pdb
