@@ -1,0 +1,96 @@
+﻿<Window x:Class="WpfDataBindingDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:WpfDataBindingDemo"
+        Title="WPF Data Binding Demo" Height="500" Width="700">
+
+    <Window.Resources>
+        <sys:String x:Key="demoText">Пример текста из ресурса</sys:String>
+        <SolidColorBrush x:Key="ThemeBrush" Color="LightGray" />
+        <local:SliderToColorConverter x:Key="SliderToColorConverter"/>
+    </Window.Resources>
+
+    <Grid Margin="10">
+
+        <DockPanel LastChildFill="True" Margin="0,0,0,10">
+            <TextBlock Text="Демонстрация контейнеров и привязки данных" 
+                       FontSize="18" FontWeight="Bold" 
+                       HorizontalAlignment="Center" 
+                       DockPanel.Dock="Top" 
+                       Margin="0,0,0,10"/>
+        </DockPanel>
+
+        <Grid Margin="0,40,0,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2*" />
+                <ColumnDefinition Width="3*" />
+            </Grid.ColumnDefinitions>
+
+            <StackPanel Grid.Column="0" Margin="10">
+                <TextBlock Text="Панель настроек" FontWeight="Bold" Margin="0,0,0,10"/>
+
+                <TextBlock Text="Фон:"/>
+                <ComboBox x:Name="BackgroundColorCombo" SelectionChanged="BackgroundColorCombo_SelectionChanged">
+                    <ComboBoxItem Content="LightGray" IsSelected="True"/>
+                    <ComboBoxItem Content="LightBlue"/>
+                    <ComboBoxItem Content="LightGreen"/>
+                </ComboBox>
+
+                <TextBlock Text="Размер шрифта:" Margin="0,10,0,0"/>
+                <Slider x:Name="FontSizeSlider" Minimum="10" Maximum="30" Value="14" />
+
+                <TextBlock x:Name="ResizableTextBlock" Text="Этот текст меняет размер шрифта"
+                   FontSize="{Binding Value, ElementName=FontSizeSlider}"
+                   Margin="0,5,0,10"/>
+
+                <TextBlock Text="Тема:" Margin="0,10,0,0"/>
+                <CheckBox x:Name="ThemeToggle" Content="Темная тема" Checked="ThemeToggle_Checked" Unchecked="ThemeToggle_Unchecked"/>
+            </StackPanel>
+
+            <StackPanel Grid.Column="1" Margin="10">
+
+                <TextBlock Text="Привязка к другим элементам" FontWeight="Bold" Margin="0,0,0,5"/>
+                <TextBox x:Name="InputTextBox" Width="200" Margin="0,0,0,5"/>
+                <TextBlock Text="{Binding Text, ElementName=InputTextBox}" FontStyle="Italic"/>
+
+                <Slider x:Name="WidthSlider" Minimum="50" Maximum="200" Value="100" Margin="0,10,0,5"/>
+                <Rectangle Fill="LightBlue" Height="30" Width="{Binding Value, ElementName=WidthSlider}"/>
+
+                <TextBlock Text="Привязка к самому себе" FontWeight="Bold" Margin="0,10,0,5"/>
+                <Ellipse Fill="Orange" Width="100" Height="{Binding Width, RelativeSource={RelativeSource Self}}" />
+
+                <Slider x:Name="ColorSlider" Minimum="0" Maximum="255" Margin="0,10,0,5">
+                    <Slider.Background>
+                        <SolidColorBrush Color="{Binding Value, ElementName=ColorSlider, Converter={StaticResource SliderToColorConverter}}" />
+                    </Slider.Background>
+                </Slider>
+
+                <TextBlock Text="{Binding Source={StaticResource demoText}}" Margin="0,10,0,5" FontWeight="Bold"/>
+
+                <TextBlock FontSize="14" Margin="0,10,0,5">
+                    <TextBlock.Text>
+                        <MultiBinding StringFormat="{}{0} - {1}">
+                            <Binding Path="FirstName" />
+                            <Binding Path="LastName" />
+                        </MultiBinding>
+                    </TextBlock.Text>
+                </TextBlock>
+
+                <TextBlock Text="UniformGrid Пример:" Margin="0,10,0,5"/>
+                <UniformGrid Columns="3" Rows="2" Margin="0,0,0,5">
+                    <Button Content="1"/>
+                    <Button Content="2"/>
+                    <Button Content="3"/>
+                    <Button Content="4"/>
+                    <Button Content="5"/>
+                    <Button Content="6"/>
+                </UniformGrid>
+
+                <Canvas Height="100" Background="LightYellow">
+                    <TextBlock Text="Элемент на Canvas" Canvas.Left="50" Canvas.Top="30" FontWeight="Bold"/>
+                </Canvas>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

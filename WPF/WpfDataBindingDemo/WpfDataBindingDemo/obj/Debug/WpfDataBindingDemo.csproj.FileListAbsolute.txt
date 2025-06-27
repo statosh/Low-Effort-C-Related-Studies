@@ -1,0 +1,16 @@
+L:\VisualStudioRepos\WPF\WpfDataBindingDemo\WpfDataBindingDemo\bin\Debug\WpfDataBindingDemo.exe.config
+L:\VisualStudioRepos\WPF\WpfDataBindingDemo\WpfDataBindingDemo\bin\Debug\WpfDataBindingDemo.exe
+L:\VisualStudioRepos\WPF\WpfDataBindingDemo\WpfDataBindingDemo\bin\Debug\WpfDataBindingDemo.pdb
+L:\VisualStudioRepos\WPF\WpfDataBindingDemo\WpfDataBindingDemo\obj\Debug\WpfDataBindingDemo.csproj.AssemblyReference.cache
+L:\VisualStudioRepos\WPF\WpfDataBindingDemo\WpfDataBindingDemo\obj\Debug\MainWindow.g.cs
+L:\VisualStudioRepos\WPF\WpfDataBindingDemo\WpfDataBindingDemo\obj\Debug\App.g.cs
+L:\VisualStudioRepos\WPF\WpfDataBindingDemo\WpfDataBindingDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+L:\VisualStudioRepos\WPF\WpfDataBindingDemo\WpfDataBindingDemo\obj\Debug\WpfDataBindingDemo_MarkupCompile.cache
+L:\VisualStudioRepos\WPF\WpfDataBindingDemo\WpfDataBindingDemo\obj\Debug\WpfDataBindingDemo_MarkupCompile.lref
+L:\VisualStudioRepos\WPF\WpfDataBindingDemo\WpfDataBindingDemo\obj\Debug\MainWindow.baml
+L:\VisualStudioRepos\WPF\WpfDataBindingDemo\WpfDataBindingDemo\obj\Debug\WpfDataBindingDemo.g.resources
+L:\VisualStudioRepos\WPF\WpfDataBindingDemo\WpfDataBindingDemo\obj\Debug\WpfDataBindingDemo.Properties.Resources.resources
+L:\VisualStudioRepos\WPF\WpfDataBindingDemo\WpfDataBindingDemo\obj\Debug\WpfDataBindingDemo.csproj.GenerateResource.cache
+L:\VisualStudioRepos\WPF\WpfDataBindingDemo\WpfDataBindingDemo\obj\Debug\WpfDataBindingDemo.csproj.CoreCompileInputs.cache
+L:\VisualStudioRepos\WPF\WpfDataBindingDemo\WpfDataBindingDemo\obj\Debug\WpfDataBindingDemo.exe
+L:\VisualStudioRepos\WPF\WpfDataBindingDemo\WpfDataBindingDemo\obj\Debug\WpfDataBindingDemo.pdb
