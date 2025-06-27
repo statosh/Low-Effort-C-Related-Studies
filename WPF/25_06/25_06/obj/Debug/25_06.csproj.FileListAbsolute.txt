@@ -1,0 +1,15 @@
+L:\VisualStudioRepos\WPF\25_06\25_06\bin\Debug\25_06.exe.config
+L:\VisualStudioRepos\WPF\25_06\25_06\bin\Debug\25_06.exe
+L:\VisualStudioRepos\WPF\25_06\25_06\bin\Debug\25_06.pdb
+L:\VisualStudioRepos\WPF\25_06\25_06\obj\Debug\25_06.csproj.AssemblyReference.cache
+L:\VisualStudioRepos\WPF\25_06\25_06\obj\Debug\MainWindow.g.cs
+L:\VisualStudioRepos\WPF\25_06\25_06\obj\Debug\App.g.cs
+L:\VisualStudioRepos\WPF\25_06\25_06\obj\Debug\25_06_MarkupCompile.cache
+L:\VisualStudioRepos\WPF\25_06\25_06\obj\Debug\25_06_MarkupCompile.lref
+L:\VisualStudioRepos\WPF\25_06\25_06\obj\Debug\MainWindow.baml
+L:\VisualStudioRepos\WPF\25_06\25_06\obj\Debug\25_06.g.resources
+L:\VisualStudioRepos\WPF\25_06\25_06\obj\Debug\_25_06.Properties.Resources.resources
+L:\VisualStudioRepos\WPF\25_06\25_06\obj\Debug\25_06.csproj.GenerateResource.cache
+L:\VisualStudioRepos\WPF\25_06\25_06\obj\Debug\25_06.csproj.CoreCompileInputs.cache
+L:\VisualStudioRepos\WPF\25_06\25_06\obj\Debug\25_06.exe
+L:\VisualStudioRepos\WPF\25_06\25_06\obj\Debug\25_06.pdb
